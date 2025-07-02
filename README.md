@@ -1,4 +1,4 @@
-[![Midnight Banner](https://media.discordapp.net/attachments/1368931918745178226/1369777149501767780/banner_midnight.png?ex=683d64a1&is=683c1321&hm=c37d669db951a85c6386f42600e8325673de8c181a5a77741de6e1a73c083248&=&format=webp&quality=lossless&width=1872&height=351)](https://disnake.dev/)
+[![Midnight Banner](https://media.discordapp.net/attachments/1368931918745178226/1369777149501767780/banner_midnight.png?ex=68664321&is=6864f1a1&hm=f4c76b8baea90a27e6937a586e4da38496e43340b4ca6286acca827e73491ba2&=&format=webp&quality=lossless&width=1123&height=211)](https://disnake.dev/)
 
 # Midnight
 Is a framework/template for quickly creating Discord bots based on **[disnake.py](https://github.com/DisnakeDev/disnake)**.
